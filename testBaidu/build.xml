@@ -40,7 +40,7 @@
 			<classpath>
 				<pathelement path="${dest.dir}" />
 			</classpath>
-			<xmlfileset dir="${basedir}" includes="testng1.xml" />
+			<xmlfileset dir="${basedir}" includes="testng.xml" />
 		</testng>
 	</target>
 
